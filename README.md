@@ -13,5 +13,7 @@
    `pip install -r requirements.txt`
 5. 启动  
    `streamlit run text_generator_app.py`
+6. 界面预览
+   ![AI 文本生成演示](demo(2).png)
 打开浏览器访问 http://localhost:8501 即可使用！# ai-text-genetator-demo
 AI文本生成小工具，使用Hugging Face和Streamlit
