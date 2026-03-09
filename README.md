@@ -3,7 +3,7 @@
 - 可以调节生成长度和生成几个版本
 ## 如何在本机运行
 1. 克隆仓库  
-   `git clone https://github.com/Eliot954/ai-text-genetator-demo.git`
+   `git clone https://github.com/Eliot954/ai-text-generator-demo.git`
 2. 进入文件夹  
    `cd ai-text-genetator-demo`
 3. 创建并激活虚拟环境  
